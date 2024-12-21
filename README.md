@@ -1,4 +1,4 @@
-```markdown
+
 # Movie Website
 
 A simple **Movie Website** built with **HTML**, **CSS**, and **JavaScript**. This website allows users to explore a variety of movies, view their details, and search for specific movies.
