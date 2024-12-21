@@ -50,4 +50,3 @@ Simply open the website in your browser and use the search bar to find movies. C
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
