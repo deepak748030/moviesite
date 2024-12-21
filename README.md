@@ -22,12 +22,12 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deepak748030/movie-website.git
+   git clone https://github.com/deepak748030/moviesite.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd movie-website
+   cd moviesite
    ```
 
 3. Open `index.html` in your browser:
