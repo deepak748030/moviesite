@@ -39,15 +39,6 @@ To run the project locally, follow these steps:
 
 Simply open the website in your browser and use the search bar to find movies. Click on any movie to see more details.
 
-## Demo
-
-You can view a live demo of the project [here](your-deployed-link.com) *(replace with actual link once deployed)*.
-
-## Screenshots
-
-![Screenshot 1](link-to-image.com)
-*Insert relevant images or screenshots of the project here.*
-
 ## Contributing
 
 1. Fork the repository.
@@ -60,5 +51,3 @@ You can view a live demo of the project [here](your-deployed-link.com) *(replace
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Just copy and paste this into your **README.md** file, and remember to replace the placeholder links (`your-deployed-link.com` and `link-to-image.com`) with actual links once you deploy and add screenshots.
